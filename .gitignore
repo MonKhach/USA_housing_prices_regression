@@ -1,0 +1,11 @@
+# data files (don't upload dataset)
+data/
+*.csv
+
+# notebook junk
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
